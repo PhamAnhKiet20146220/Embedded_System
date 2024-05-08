@@ -1,9 +1,6 @@
 // Bai KT1
-//Nhom SV :
-// - Pham Anh Kiet - 20146220
-// - Nguyen Kim Long - 20146222
-// - Hoang Dinh An - 20144348
-// - Lop sang Thu 6
+Pham Anh Kiet - 20146220
+
 
 // CODE
 #include <wiringPi.h>
