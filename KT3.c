@@ -1,5 +1,5 @@
 //Lop nhung sang T6:
-//thanh vien: Pham Anh Kiet 20146220,Nguyen Kim Long 20146222,Hoang Dinh An 20144348.
+Pham Anh Kiet 20146220
 #include <wiringPiI2C.h> //them thu vien I2C
 #include <wiringPi.h> //thu vien cua Pi
 #include <stdio.h> //thu vien stdio
